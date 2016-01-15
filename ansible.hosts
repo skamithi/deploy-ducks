@@ -1,0 +1,11 @@
+[spines]
+spine1
+
+[leafs]
+leaf[1:4]
+
+[ext-rtrs]
+ext-rtr1
+ext-rtr2
+
+test-rtr
